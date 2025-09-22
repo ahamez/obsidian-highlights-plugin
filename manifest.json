@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-highlights-plugin",
+	"name": "Highlights Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Displays the current note's ==highlighted== snippets in a sidebar tab.",
+	"author": "Alexandre Hamez",
+	"authorUrl": "https://github.com/ahamez",
+	"isDesktopOnly": true
+}
